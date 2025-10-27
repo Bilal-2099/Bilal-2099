@@ -33,10 +33,6 @@ I focus on creating practical, production-style solutions using Python, AWS, Air
 | [⚙️ Serverless ETL](https://github.com/Bilal-2099/Serverless-ETL) | Built a serverless data pipeline using AWS Lambda and SQS for event-driven processing. |
 | [📊 Python + SQL Project](https://github.com/Bilal-2099/Project-2-Python-SQL-) | Combined Python and SQL for end-to-end data analysis and reporting. |
 
----
-
-## 📈 GitHub Stats  
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bilal-2099&show_icons=true&theme=tokyonight)
 
 ---
 
