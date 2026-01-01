@@ -5,8 +5,7 @@ I focus on creating practical, production-style solutions using Python, AWS, Air
 
 ---
 
-## 🧠 About Me  
-- 💻 Freelance Python Developer (May 2024 – Present)  
+## 🧠 About Me    
 - 🧩 Building ETL pipelines with **Airflow** and **AWS**  
 - 📊 Skilled in **Python, SQL, Pandas, and NumPy**  
 - 🌱 Currently exploring **Django** for backend development  
